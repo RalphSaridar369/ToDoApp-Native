@@ -13,9 +13,6 @@ export default function App() {
     {name:'Ralph',age:31, key:1},
     {name:'Samir',age:32, key:2},
     {name:'Ali',age:36, key:3},
-    {name:'Ahmad',age:36, key:4},
-    {name:'Batata',age:36, key:5},
-    {name:'Batenjen',age:36, key:6},
   ])
   const [test,setTest]=useState([1,2,3,4,5,6,7,8,9,0])
   const clickHandler =()=>{
